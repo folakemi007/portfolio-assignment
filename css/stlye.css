@@ -1,0 +1,55 @@
+.main-div{
+
+    
+    
+}
+
+.img{
+    float: left;
+    height: 50px;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 5rem;
+    
+
+
+}
+
+.first-div{
+    padding-top: 2rem;
+    padding-left: 20rem;
+    color: white;
+    
+}
+
+.content{
+    color:rgb(131, 39, 39);
+    padding-top: 3rem;
+    padding-left: 20rem;
+    font-size: large;
+    
+}
+
+.list{
+    padding-top: 5rem;
+    max-width: 2;
+    margin-inline: ;
+    color: rgb(252, 183, 8);
+    padding-bottom: 2rem;
+}
+
+.second-div{
+    padding-left: 20rem;
+    color: white;
+}
+
+.container{
+    margin: auto;
+    width: 800px;
+    height: auto;
+    background-color: black;
+    border-radius: 5px;
+    border-style: outset;
+    border-color: brown;
+    
+}
